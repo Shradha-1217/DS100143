@@ -12,10 +12,12 @@ This repository contains three data science projects completed during my interns
 
 3. Predicting House Prices: A regression-based project to predict house prices based on multiple features.
    
-# DatasetsThe datasets used for these projects can be accessed from the following link:
+# Datasets 
+The datasets used for these projects can be accessed from the following link:
 Google Drive - 
 
-# Dataset Details:1. Movie Ratings Dataset: 
+# Dataset Details: 
+1. Movie Ratings Dataset: 
  -Contains information on movies, ratings, genres, and user preferences. 
  - Ideal for analyzing audience behavior and movie performance.
 2. Weather Dataset:
