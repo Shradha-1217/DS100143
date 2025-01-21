@@ -14,7 +14,7 @@ This repository contains three data science projects completed during my interns
    
 # Datasets 
 The datasets used for these projects can be accessed from the following link:
-Google Drive - 
+Google Drive - https://drive.google.com/drive/folders/1tPltCLFVk_DvgcSSLU-aZzqws35-EuoF
 
 # Dataset Details: 
 1. Movie Ratings Dataset: 
